@@ -20,6 +20,8 @@ Connect with me on  [![LinkedIn][1.1]][1].
 <img src="https://img.shields.io/badge/Application-Excel-darkgreen"> <img src="https://img.shields.io/badge/Application-Tableau-orange">
 
 
+### Take a look at some of my projects 👇
+
 <!--
 **yeeryan/yeeryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
